@@ -1,4 +1,4 @@
-beautifulsoup4==4.9.3
+beautifulsoup4==4.11.1
 certifi==2022.6.15
 chardet==5.0.0
 greenlet==1.1.0
